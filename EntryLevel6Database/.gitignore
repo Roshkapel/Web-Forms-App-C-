@@ -1,0 +1,34 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# SQL Server database files
+*.mdf
+*.ldf
+*.bak
+
+# Build outputs
+bin/
+obj/
+
+# OneDrive/Windows files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.tmp
+*.temp
+*.swp
+
+# Ignore local settings
+*.dbmdl
+*.dbproj.schemaview

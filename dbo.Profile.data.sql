@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Profile] ([AccountNo], [AccountHolder], [HolderAddress], [PremiseNo], [Balance], [CurrentUsage], [CurrentCharges], [AmountDue], [PaymentDate], [Duedate]) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
