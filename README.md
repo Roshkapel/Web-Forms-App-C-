@@ -1,4 +1,4 @@
-# Web-Forms-App-C-
+# Web-Forms-App-C#
 Web forms application to track customer's electricity use and bill  them accordingly.
 
 This web forms application allows employees as well as customers to access meter tracking, electricity  usage and view billing statements with graphical interfaces.
